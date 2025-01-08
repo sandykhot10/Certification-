@@ -53,5 +53,14 @@
     <p>I participated in the CodeQuezt Contest: Data Structure and Algorithm, hosted by Naukri Campus on November 17, 2024.</p>
     <p><a href="NaukriCampus_Certificate_DSA.pdf" target="_blank">View Certification</a></p>
 </div>
+    <div>
+    <div class="container">
+        <h1>Infotsav'24 Certificate of Participation</h1>
+        <p>Welcome! You can view my participation certificate for Infotsav'24 by clicking the link below:</p>
+        <p>This certificate, provided by Atal Bihari Vajpayee Indian Institute of Information Technology and Management (ABV IIITM) Gwalior, is proof of my sheer grit, hard work, and dedication through which I participated in Infotsav'24.</p>
+        <p>Unstop congratulates me on achieving yet another milestone.</p>
+        <p><a href="Infotsav24_Certificate.pdf" target="_blank">View Certification</a></p>
+    </div>
+</div>
 </body>
 </html>
